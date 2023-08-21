@@ -1,0 +1,462 @@
+    1  git --version
+    2  clear
+    3  pwd
+    4  clear
+    5  pwd
+    6  cd
+    7  cd programacion
+    8  clear
+    9  pwd
+   10  cd Practicas
+   11  cd banner
+   12  cd
+   13  clear
+   14  ls
+   15  clear
+   16  ls-l
+   17  ls
+   18  ls-lh
+   19  clear
+   20  ls-a
+   21  ls -a
+   22  ls-a
+   23  ls-a
+   24  cd C/user/yolan
+   25  cd C:/User/yolan/OneDrive/Escritorio/Curso Programacion
+   26  ls
+   27  ls-a
+   28  ls-R
+   29  C:/User/yolan
+   30  cd C:/User/yolan
+   31  clear
+   32  ls
+   33  clear
+   34  touch DH
+   35  cd DH
+   36  touch /DH
+   37  clear
+   38  ls
+   39  clear
+   40  mkdir DH
+   41  rm DH
+   42  mkdir DH
+   43  ls
+   44  cd DH
+   45  Mkdir Peliculas
+   46  cd Peliculas
+   47  Mkdir Infantiles
+   48  Mkdir Accion
+   49  Mkdir Terror
+   50  Mkdir Comedia
+   51  Mkdir Romanticas
+   52  ls
+   53  cd Accion
+   54  touch Intensamente
+   55  touch El juego del miedo
+   56  touch Rapido y Furioso
+   57  touch Titanic
+   58  ls
+   59  rm Accion
+   60  ls
+   61  rm Instensamente
+   62  cd
+   63  cd ..
+   64  ls
+   65  cd yolan
+   66  cd DH
+   67  cd Peliculas
+   68  rm Accion
+   69  ls
+   70  rm -r Accion
+   71  ls
+   72  mkdir Accion
+   73  ls
+   74  cd Infantiles
+   75  ls
+   76  Touch Instensamente
+   77  touch El juego del miedo.xls
+   78  ls
+   79  rm El Intensamente del juego miedo.xls
+   80  rm Intensamente
+   81  ls
+   82  rm Intensamente
+   83  rm Instensamente
+   84  ls
+   85  touch Intensamente.txt
+   86  touch "El juego del miedo.xls"
+   87  ls
+   88  touch "Rapido y furioso.pdf"
+   89  touch Titanic.jpg
+   90  cd ..
+   91  ls
+   92  cd Accion
+   93  touch "Smooth criminal.txt"
+   94  touch "Diario de una pasion.js"
+   95  touch "El exorcista.xls"
+   96  touch Cars.jpg
+   97  cd..
+   98  cd ..
+   99  cd Terror
+  100  touch "La dama y el vagabundo.png"
+  101  touch "Yo antes de ti.xls"
+  102  touch "Que paso ayer.pdf"
+  103  touch "We will rock you.js"
+  104  cd .. 
+  105  cd Comedia
+  106  touch Madagascar.js
+  107  touch "Orgullo y prejuicio.txt"
+  108  touch IT.xls
+  109  touch "Mision imposible.png"
+  110  ls
+  111  cd ..
+  112  cd Romantica
+  113  cd Romantica
+  114  ls
+  115  cd Romanticas
+  116  touch Pocahontas.jpg
+  117  touch Annabelle.js
+  118  touch Los vengadores.js
+  119  rm Los vengadores.js
+  120  ls
+  121  touch "Los vengadores.js"
+  122  touch "La mascara.js"
+  123  cd ..
+  124  ls
+  125  ls -R
+  126  clear
+  127  ls -R
+  128  mkdir prueba
+  129  cd prueba
+  130  mkdir tt rr ww oo pp
+  131  ls
+  132  cd .. 
+  133  rm prueba
+  134  ls
+  135  rm -r prueba
+  136  ls
+  137  clear
+  138  ls -R
+  139  cd ..
+  140  mkdir romanticas/Prueba
+  141  ls
+  142  mkdir Peliculas/romanticas/Prueba
+  143  cd romanticas
+  144  cd Peliculas/romanticas
+  145  mkdir Accion/Prueba2
+  146  mkdir /Accion/Prueba2
+  147  Mkdir Peliculas/Accion/Prueba2
+  148  mkdir ../Accion/Pruebas2
+  149  ls
+  150  cd ..
+  151  cd accion
+  152  ls
+  153  ls -R
+  154  clear
+  155  ls -R
+  156  clear
+  157  cd ..
+  158  cd ..
+  159  clear
+  160  ls -R
+  161  clear
+  162  cd peliculas
+  163  ls -R
+  164  ls
+  165  cd accion
+  166  ls
+  167  mv Pruebas2/prueba2
+  168  mv Pruebas2 Prueba2
+  169  ls
+  170  clear
+  171  cd ..
+  172  clear
+  173  ls -R
+  174  mkdir informes
+  175  ls
+  176  rmdir informes
+  177  ls
+  178  clear
+  179  mkdir informes
+  180  cd informes
+  181  touch informeAnual.xls
+  182  ls
+  183  clear
+  184  mkdir auditoria
+  185  touch auditoria.xls
+  186  touch reporteConsolidado.xls
+  187  ls
+  188  clear
+  189  mv auditoria.xls auditoria
+  190  cd auditoria
+  191  ls
+  192  git --version
+  193  git
+  194  clear
+  195  git --version
+  196  clear
+  197  cd informes
+  198  clear
+  199  git init
+  200  config user.name "Yolanda Godines"
+  201  git config user.name "Yolanda Godines"
+  202  git config.user.email "yolandagodinescastillo@gmail.com"
+  203  git config user.email "yolandagodinescastillo@gmail.com"
+  204  clear
+  205  cd ..
+  206  clear
+  207  mkdir "Practica repositorio"
+  208  cd Practica\ repositorio/
+  209  git init
+  210  touch app.js
+  211  git status
+  212  git add app.js
+  213  git status
+  214  clear
+  215  mkdir mercadoAbierto
+  216  cd mercadoAbierto
+  217  clear
+  218  cd ..
+  219  cd ..
+  220  clear
+  221  mkdir practica3AGit
+  222  clear
+  223  mkdir mercadoAbierto
+  224  cd mercadoAbierto
+  225  git init
+  226  touch productos.js
+  227  git status
+  228  git add producto.js
+  229  git status
+  230  git add productos.js
+  231  git status
+  232  git commit -m "mi primer commit"
+  233  git config --global user.email "yolandagodinescastillo@gmail.com"
+  234  git config --global user.name "Yolanda Godines Castillo"
+  235  git commit -m "mi primer commit"
+  236  git status
+  237  cd source/repos
+  238  git clone https://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@github.com/lpasteris/camada03.git
+  239  clear
+  240  git clone https://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@github.com/Yolanda-Godines-Castillo/camada03.git
+  241  ls
+  242  cd camada03
+  243  ls
+  244  code .
+  245  ls
+  246  git status
+  247  git add .
+  248  git status
+  249  git commit -m "Agregando estados de git"
+  250  git push origin main
+  251  git fetch origin
+  252  git pull origin main
+  253  touch style.css
+  254  ls
+  255  git status
+  256  git add .
+  257  git status
+  258  git commit -m "Creacion de archivo style.css"
+  259  git push origin main
+  260  git fetch origin
+  261  git pull origin main
+  262  git status
+  263  git push origin main
+  264  git status
+  265  git add .
+  266  git status
+  267  git commit -m "se agrego mensaje en linea 10"
+  268  git fetch origin
+  269  git pull origin main
+  270  git log --oneline
+  271  git add .
+  272  git commit -m "Conflicto resuelto"
+  273  git push origin main
+  274  git branch fileStyle2
+  275  git branch 
+  276  git checkout fileStyle
+  277  git checkout fileStyle2
+  278  touch style2.css
+  279  git status
+  280  git add . 
+  281  git status
+  282  git commit -m "Creacion de 1era rama"
+  283  git push origin fileStyle2
+  284  git status
+  285  git checkout main
+  286  git branch rama2yolis
+  287  touch newReadme.md
+  288  git checkout rama2yolis
+  289  touch newReadme.md
+  290  git add .
+  291  git commit -m "Creando conflicto 2 rama yolis"
+  292  git pull origin TaniaBranch
+  293  git branch
+  294  git add .
+  295  git commit -m "Creando conflicto 2do intento"
+  296  git pull origin TaniaBranch
+  297  touch conflicto.md
+  298  touch conflicto.md
+  299  ls
+  300  git checkout main
+  301  git status
+  302  git status
+  303  clear
+  304  git branch ramacomp
+  305  touch Conflicto.md
+  306  git add .
+  307  git commit -m "Creando conflicto entre ramas 2do intento"
+  308  git pull origin CreandoConflictoygc
+  309  git add .
+  310  git commit -m "Resolviendo conflicto entre ramas ygc"
+  311  git status
+  312  git push origin CreandoConflictoygc
+  313  git push origin CreandoConflictoygc
+  314  git status
+  315  git log --oneline
+  316  git branch
+  317  git pull --rebase origin main git push origin CreandoConflictoygc
+  318  git pull --rebase origin main git push -u origin main 
+  319  git fetch origin main
+  320  git pull origin main
+  321  git push origin CreandoConflictoygc
+  322  git pull origin CreandoConflictoygc
+  323  clear
+  324  mkdir Checkpoint-200823-YolandaGodines
+  325  cd Checkpoint-200823-YolandaGodines
+  326  git init
+  327  git remote add origin https://github.com/Yolanda-Godines-Castillo/Checkpoint-200823-YolandaGodines.git
+  328  touch main.js index.html
+  329  ls
+  330  clear
+  331  git add
+  332  clear
+  333  git add .
+  334  git commit -m "commit 01 de Yolanda Godines"
+  335  git branch feature
+  336  git checkout feature
+  337  mkdir Hardware Software SeguridadInformatica
+  338  ls
+  339  cd Hardware 
+  340  touch resume.txt
+  341  ls
+  342  cd ..
+  343  cd Hardware
+  344  mv resume.txt resumen.txt
+  345  ls
+  346  cd ..
+  347  cd SeguridadInformatica
+  348  touch resumen.txt
+  349  ls
+  350  cd ..
+  351  cd Software
+  352  touch resumen.txt
+  353  ls
+  354  clear
+  355  cd ..
+  356  git status
+  357  git add .
+  358  git status
+  359  git commit -m "commit 02 Yolanda Godines"
+  360  git push -u origin feature
+  361  clear
+  362  git checkout main
+  363  ls
+  364  mv main.js resumenHardware.txt
+  365  mv index.html resumenSoftware.txt
+  366  ls
+  367  git --help
+  368  clear
+  369  echo "Ejemplo 1 de Software: Autocad" >> resumenSoftware.txt
+  370  echo "Ejemplo 2 de Software: Solidworks" >> resumenSofware.txt
+  371  echo "Ejemplo 3 de Software: Microsoft Windows 10" >> resumenSoftware.txt
+  372  cat resumenSoftware.txt
+  373  echo "Ejemplo 2 de Software: Solidworks" >> resumensoftware.txt
+  374  cat resumenSoftware.txt
+  375  sed -i '1,3d' resumenSoftware.txt 
+  376  ls
+  377  rm resumenSofware.txt 
+  378  ls
+  379  cat resumenSoftware.txt 
+  380  clear
+  381  echo "Ejemplo 1 de Software: Autocad" >> resumenSoftware.txt 
+  382  echo "Ejemplo 2 de Software: Solidworks" >> resumenSoftware.txt 
+  383  echo "Ejemplo 3 de Software: Visual Studio Code" >> resumenSoftware.txt 
+  384  cat resumenSoftware
+  385  cat resumenSoftware.txt
+  386  ls
+  387  clear
+  388  echo "Listar 3 memorias principales de la computadora" >> resumenHardware.txt
+  389  echo "1 ---> RAM" >> resumenHardware.txt 
+  390  echo "2 ---> ROM" >> resumenHardware.txt 
+  391  echo "3 ---> MEMORIA CACHE" >> resumenHardware.txt 
+  392  cat resumenHardware.txt
+  393  ls
+  394  clear
+  395  touch comandos.txt
+  396  git history
+  397  git --help
+  398  clear
+  399  history
+  400  history > comandos.txt
+  401  cat comandos.txt 
+  402  clear
+  403  git status
+  404  git add .
+  405  git status
+  406  commit -m "Commit 03 Yolanda Godines"
+  407  git commit -m "Commit 03 Yolanda Godines"
+  408  git push origin main
+  409  mkdir Checkpoint-200823-YolandaGodines
+  410  mkdir Checkpoint-200823-YolandaGodines
+  411* cd 
+  412  mkdir Checkpoint-200823-YolandaGodines
+  413  clear
+  414  cd Checkpoint-200823-YolandaGodines
+  415  git init
+  416  git remote add origin https://github.com/Yolanda-Godines-Castillo/Checkpoint-200823-YolandaGodines.git
+  417  touch main.js index.html
+  418  ls
+  419  git add .
+  420  git commit -m "commit 01 de Yolanda Godines"
+  421  git push origin main
+  422  git branch feature
+  423  git checkout feature
+  424  mkdir Hardware Software SeguridadInformatica
+  425  ls
+  426  cd Hardware
+  427  touch resume.txt
+  428  mv resume.txt resumen.txt
+  429  ls
+  430  cd ..
+  431  cd SeguridadInformatica
+  432  touch resumen.txt
+  433  ls
+  434  cd ..
+  435  cd Software
+  436  touch resumen.txt
+  437  ls
+  438  git add .
+  439  git status
+  440  cd .. 
+  441  git add .
+  442  git status
+  443  git commit -m "commit 02 Yolanda Godines"
+  444  git push -u origin feature
+  445  git checkout main
+  446  ls
+  447  mv main.js resumenHardware.txt
+  448  mv index.html resumenSoftware.txt
+  449  ls
+  450  echo "Ejemplo 1 de Software: Autocad" >> resumenSoftware.txt
+  451  echo "Ejemplo 2 de Software: Solidworks" >> resumenSoftware.txt
+  452  echo "Ejemplo 3 de Software: Visual Studio Code" >> resumenSoftware.txt
+  453  cat resumenSoftware.txt 
+  454  echo "Listar 3 memorias principales de la computadora" >> resumenHardware.txt 
+  455  echo "1 ---> RAM" >> resumenHardware.txt 
+  456  echo "2 ---> ROM" >> resumenHardware.txt 
+  457  echo "3 ---> MEMORIA CACHE" >> resumenHardware.txt 
+  458  cat resumenHardware.txt 
+  459  ls
+  460  touch comandos.txt
+  461  history
+  462  history > comandos.txt
